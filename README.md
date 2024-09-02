@@ -1,5 +1,9 @@
 # Colorful Wallpaper X
 
+[now-on-havoc]: https://havoc.app/package/colorfulx
+
+[<img width="150" src="https://docs.havoc.app/img/badges/get_square.svg" />][now-on-havoc]
+
 Colorful Wallpaper X is a tweak designed for creating vibrant, animated gradient wallpapers.
 
 ## Compatibility
@@ -19,6 +23,8 @@ Colorful Wallpaper X is a tweak designed for creating vibrant, animated gradient
 - Fully optimized and integrated with system UI.
 - Optimized for iPhone 14 Pro / Max: “Always-On-Display”.
 - Optimized for iPad.
+
+------
 
 And... we've open-sourced our drawing library [here](https://github.com/Lakr233/ColorfulX).
 
