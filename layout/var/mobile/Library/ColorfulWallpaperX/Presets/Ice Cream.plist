@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>id</key>
+	<string>ice-cream</string>
+	<key>title</key>
+	<string>Ice Cream</string>
+	<key>colors</key>
+	<array>
+		<string>#3AA6B9</string>
+		<string>#FFD0D0</string>
+		<string>#FF9EAA</string>
+		<string>#C1ECE4</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>id</key>
+	<string>matcha-latte</string>
+	<key>title</key>
+	<string>Matcha Latte</string>
+	<key>colors</key>
+	<array>
+		<string>#A9907E</string>
+		<string>#F3DEBA</string>
+		<string>#ABC4AA</string>
+		<string>#675D50</string>
+	</array>
+</dict>
+</plist>
