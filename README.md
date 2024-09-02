@@ -24,6 +24,10 @@ Colorful Wallpaper X is a tweak designed for creating vibrant, animated gradient
 - Optimized for iPhone 14 Pro / Max: “Always-On-Display”.
 - Optimized for iPad.
 
+## Custom Presets
+
+See [Example](./layout/var/mobile/Library/ColorfulWallpaperX/Presets/Cappuccino.plist).
+
 ------
 
 And... we've open-sourced our drawing library [here](https://github.com/Lakr233/ColorfulX).

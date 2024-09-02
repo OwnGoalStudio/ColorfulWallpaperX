@@ -1,0 +1,9 @@
+Package: wiki.qaq.colorfulwallpaperx.schemes.desserts
+Name: ColorfulWallpaperX - Desserts
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Dynamic wallpaper with colorful effects.
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Themes
+Depends: wiki.qaq.colorfulwallpaperx (>= 3.0)

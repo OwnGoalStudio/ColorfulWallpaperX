@@ -1,3 +1,7 @@
+.theos
+.cache
+packages
+
 # Created by https://www.toptal.com/developers/gitignore/api/swift,macos,xcode
 # Edit at https://www.toptal.com/developers/gitignore?templates=swift,macos,xcode
 
@@ -8,7 +12,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
