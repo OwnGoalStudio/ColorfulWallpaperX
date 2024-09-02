@@ -28,6 +28,9 @@ Colorful Wallpaper X is a tweak designed for creating vibrant, animated gradient
 
 See [Cappuccino.plist](./layout/var/mobile/Library/ColorfulWallpaperX/Presets/Cappuccino.plist).
 
+**Where to find colors?**  
+Have a look at [Color Hunt - Color Palettes for Designers and Artists](https://colorhunt.co/)
+
 ## Localization Resources
 
 See [Localizable.strings](./i18n/en.lproj/Localizable.strings).
