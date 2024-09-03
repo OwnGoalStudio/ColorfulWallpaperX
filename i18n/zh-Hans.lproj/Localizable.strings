@@ -17,7 +17,7 @@
 "BIAS" = "散射";
 
 /* No comment provided by engineer. */
-"China" = "中国";
+"China Red" = "中国红";
 
 /* No comment provided by engineer. */
 "Colorful" = "多彩";
@@ -135,3 +135,6 @@
 
 /* No comment provided by engineer. */
 "Winter" = "冬之寂";
+
+/* No comment provided by engineer. */
+"Save to Album" = "保存至相册";

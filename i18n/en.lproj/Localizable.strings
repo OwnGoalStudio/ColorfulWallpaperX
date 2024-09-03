@@ -17,7 +17,7 @@
 "BIAS" = "BIAS";
 
 /* No comment provided by engineer. */
-"China" = "China";
+"China Red" = "China Red";
 
 /* No comment provided by engineer. */
 "Colorful" = "Colorful";
@@ -135,3 +135,6 @@
 
 /* No comment provided by engineer. */
 "Winter" = "Winter";
+
+/* No comment provided by engineer. */
+"Save to Album" = "Save to Album";
