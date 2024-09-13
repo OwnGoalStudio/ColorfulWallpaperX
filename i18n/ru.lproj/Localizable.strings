@@ -16,6 +16,9 @@
 /* No comment provided by engineer. */
 "BIAS" = "BIAS";
 
+/* TODO */
+"Built-In Presets" = "Built-In Presets";
+
 /* No comment provided by engineer. */
 "China Red" = "Китайский Красный";
 
@@ -98,6 +101,9 @@
 "Render Scale" = "Масштаб рендеринга";
 
 /* No comment provided by engineer. */
+"Save to Album" = "Сохранить в коллекцию";
+
+/* No comment provided by engineer. */
 "Slide up to disable and re-spring" = "Свайпните вверх, чтобы отключить и сделать re-spring";
 
 /* No comment provided by engineer. */
@@ -121,8 +127,17 @@
 /* No comment provided by engineer. */
 "Sunset" = "Закат";
 
+/* TODO */
+"There is no user-defined preset yet." = "There is no user-defined preset yet.";
+
+/* TODO */
+"To create one, share any color palette from **colorhunt.co** to “Colorful”." = "To create one, share any color palette from **colorhunt.co** to “Colorful”.";
+
 /* No comment provided by engineer. */
 "Transition Speed" = "Скорость изменения";
+
+/* TODO */
+"User-Defined Presets" = "User-Defined Presets";
 
 /* No comment provided by engineer. */
 "Verification Failed" = "Проверка не удалась";
@@ -135,6 +150,3 @@
 
 /* No comment provided by engineer. */
 "Winter" = "Зима";
-
-/* No comment provided by engineer. */
-"Save to Album" = "Сохранить в коллекцию";

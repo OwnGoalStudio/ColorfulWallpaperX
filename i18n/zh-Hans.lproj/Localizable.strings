@@ -17,6 +17,9 @@
 "BIAS" = "散射";
 
 /* No comment provided by engineer. */
+"Built-In Presets" = "初始预设";
+
+/* No comment provided by engineer. */
 "China Red" = "中国红";
 
 /* No comment provided by engineer. */
@@ -98,6 +101,9 @@
 "Render Scale" = "渲染缩放";
 
 /* No comment provided by engineer. */
+"Save to Album" = "保存至相册";
+
+/* No comment provided by engineer. */
 "Slide up to disable and re-spring" = "上划以禁用并重新启动";
 
 /* No comment provided by engineer. */
@@ -122,7 +128,16 @@
 "Sunset" = "暮色";
 
 /* No comment provided by engineer. */
+"There is no user-defined preset yet." = "暂无自定义预设。";
+
+/* No comment provided by engineer. */
+"To create one, share any color palette from **colorhunt.co** to “Colorful”." = "如需创建，请分享 **colorhunt.co** 上的任意调色板至 “Colorful”。";
+
+/* No comment provided by engineer. */
 "Transition Speed" = "转场速度";
+
+/* No comment provided by engineer. */
+"User-Defined Presets" = "自定义预设";
 
 /* No comment provided by engineer. */
 "Verification Failed" = "验证失败";
@@ -135,6 +150,3 @@
 
 /* No comment provided by engineer. */
 "Winter" = "冬之寂";
-
-/* No comment provided by engineer. */
-"Save to Album" = "保存至相册";
