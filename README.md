@@ -8,10 +8,10 @@ Colorful Wallpaper X is a tweak designed for creating vibrant, animated gradient
 
 ## Compatibility
 
-- iOS 15, or 16
+- iOS 15/16/17/18
 - Dopamine and Dopamine (RootHide)
-- NathanLR's jailbreak
-- SEROTONIN IS SUPPORTED
+- NathanLR (17.0)
+- Bootstrap (RootHide, 17.0)
 
 ## Features
 
